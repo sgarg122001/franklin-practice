@@ -1,4 +1,4 @@
 user-agent: *
-disallow: /documentation/
-disallow: /cc-growth-sandbox/
-disallow: /internal/
+allow: /
+
+sitemap: https://blog.adobe.com/sitemap-index.xml
